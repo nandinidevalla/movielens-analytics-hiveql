@@ -73,15 +73,22 @@ Ideal for Hive-based modeling and analytics due to its real-world schema and var
 
 ## 🗂️ Project Structure
 
-'''
+```
 scripts/
 └── movielens_analysis.sql # Full HiveQL script: DDL, DML, queries, optimization
 
 report/
 └── analysis_findings.md # Summary of insights and learnings from the assignment
 
-'''
+screenshots/
+├── movie_genre_analysis/
+├── user_behaviour_analysis/
+├── temporal_trends/
+└── query_performance_comparision/
 
+README.md # Project overview and technical summary
+
+```
 ---
 
 ## 💬 Why This Project Matters
